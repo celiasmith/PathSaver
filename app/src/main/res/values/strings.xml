@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Version">0.9</string>
+    <string name="app_name">PathSaver</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="file_save">Save file...</string>
+    <string name="file_comment">File name (.txt will be appended in Downloads folder):</string>
+</resources>
